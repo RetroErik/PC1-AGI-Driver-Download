@@ -107,3 +107,8 @@ Check out my YouTube channel for demos and more retro projects: https://www.yout
 ## License
 
 This project is provided for personal, non-commercial use. The patched overlays are derived from Sierra's original CGA_GRAF.OVL files — you must own the original games to use them.
+
+## YouTube
+
+For more retro computing content, visit my YouTube channel **Retro Hardware and Software**:
+[https://www.youtube.com/@RetroErik](https://www.youtube.com/@RetroErik)
