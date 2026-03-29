@@ -1,12 +1,13 @@
 # AGI Driver for Olivetti Prodest PC1
 
-**By Retro Erik — 2026**
-
 Brings true EGA-quality 16-color graphics to Sierra AGI v2 games on the Olivetti Prodest PC1, using the Yamaha V6355D hidden 160×200×16 graphics mode.
 
-## Download
+By **Retro Erik** — [YouTube: Retro Hardware and Software](https://www.youtube.com/@RetroErik)
 
-Download **[AGI-PC1.zip](AGI-PC1.zip)** and extract it. The ZIP contains:
+![Olivetti Prodest PC1](https://img.shields.io/badge/Platform-Olivetti%20Prodest%20PC1-blue)
+![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-green)
+
+### 📥 [Download AGI-PC1.zip — everything you need](AGI-PC1.zip)
 
 | File | Description |
 |------|-------------|
