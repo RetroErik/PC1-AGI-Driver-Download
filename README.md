@@ -62,29 +62,35 @@ Game graphics are rendered through the overlay and look perfect. However, the AG
 
 Captured from real Olivetti Prodest PC1 hardware.
 
-<img src="Screenshots/KQ1 AGI overlay.png" width="50%">
+<p>
+<em>King's Quest I</em><br>
+<img src="Screenshots/KQ1 AGI overlay.png" width="60%" alt="King's Quest I">
+</p>
 
-*King's Quest I*
+<p>
+<em>King's Quest II</em><br>
+<img src="Screenshots/KQ2 AGI overlay.png" width="60%" alt="King's Quest II">
+</p>
 
-<img src="Screenshots/KQ2 AGI overlay.png" width="50%">
+<p>
+<em>King's Quest III</em><br>
+<img src="Screenshots/KQ3 AGI overlay.png" width="60%" alt="King's Quest III">
+</p>
 
-*King's Quest II*
+<p>
+<em>Police Quest I</em><br>
+<img src="Screenshots/PQ1 AGI overlay.png" width="60%" alt="Police Quest I">
+</p>
 
-<img src="Screenshots/KQ3 AGI overlay.png" width="50%">
+<p>
+<em>Space Quest I</em><br>
+<img src="Screenshots/SQ1 AGI overlay.png" width="60%" alt="Space Quest I">
+</p>
 
-*King's Quest III*
-
-<img src="Screenshots/PQ1 AGI overlay.png" width="50%">
-
-*Police Quest I*
-
-<img src="Screenshots/SQ1 AGI overlay.png" width="50%">
-
-*Space Quest I*
-
-<img src="Screenshots/SQ2 AGI overlay.png" width="50%">
-
-*Space Quest II*
+<p>
+<em>Space Quest II</em><br>
+<img src="Screenshots/SQ2 AGI overlay.png" width="60%" alt="Space Quest II">
+</p>
 
 ## Supported Games
 
